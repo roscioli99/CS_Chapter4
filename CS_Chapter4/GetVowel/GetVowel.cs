@@ -23,12 +23,10 @@ namespace GetVowel
                 else
                 {
                     Console.WriteLine("ERROR");
-                    Console.Write("Enter a vowl: ");
-                    String input3 = Console.ReadLine();
                 }
 
                 Console.Write("Enter a vowel: ");
-                String input2 = Console.ReadLine();
+                input = Console.ReadLine();
             }
 
 
